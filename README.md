@@ -105,6 +105,7 @@
 - [Here Comes Everybody](https://amzn.to/45plMCY) / [鄉民都來了](https://www.books.com.tw/exep/assp.php/skiests/products/0010523001)
 - [Predictably Irrational](https://amzn.to/45MS4r0) / [誰說人是理性的](https://www.books.com.tw/exep/assp.php/skiests/products/0010788078)
 - [The Upside of Irrationality](https://amzn.to/47RiMRq) / [不理性的力量](https://www.books.com.tw/exep/assp.php/skiests/products/0010787226)
+- [Contagious: Why Things Catch On](https://amzn.to/3qFvORn) / [瘋潮行銷](https://www.books.com.tw/exep/assp.php/skiests/products/0010695782)
 
 #### 經濟與財務
 - ⭐ [The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor](https://amzn.to/45K7WdV) / [投資最重要的事](https://www.books.com.tw/exep/assp.php/skiests/products/0010744933)
