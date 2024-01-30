@@ -58,6 +58,7 @@
 
 #### 創造
 - ⭐ [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+- ⭐ [Awesome](https://github.com/sindresorhus/awesome)
 - [The Web Application Hacker's Handbook](https://amzn.to/3Efjvya)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3qWD4rT)
 - ⭐ [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
